@@ -1,6 +1,6 @@
 #!/bin/bash
 # W8CamHack v1
-# Powered by TechChip
+# Powered by W8SOJIB
 # This Tool Modify [W8SOJIB/]
 
 trap 'printf "\n";stop' 2
